@@ -1,17 +1,23 @@
-text,label
-I love this movie,1
-This film is amazing,1
-I really like this movie,1
-Fantastic acting,1
-Wonderful movie,1
-Excellent story,1
-Best film ever,1
-Great experience,1
-I hate this movie,0
-This film is terrible,0
-Worst movie ever,0
-I dislike this film,0
-Very boring movie,0
-Bad acting,0
-Poor story,0
-Awful experience,0
+documents = [
+    "I love this movie",
+    "This film is amazing",
+    "Excellent acting",
+    "Fantastic movie",
+    "Wonderful story",
+    "Great performance",
+    "Best movie ever",
+    "I enjoyed this film",
+    "Amazing screenplay",
+    "Superb direction",
+
+    "I hate this movie",
+    "Worst film ever",
+    "Bad acting",
+    "Terrible story",
+    "Awful experience",
+    "Very boring movie",
+    "Poor screenplay",
+    "Waste of time",
+    "Not worth watching",
+    "Disappointing film"
+]
